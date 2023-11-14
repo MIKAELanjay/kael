@@ -1,0 +1,12 @@
+import random
+
+print("Nama saya Mikael Ahmad Jauhar Asytar")
+hobi =  ["Main Game", "Berenang", "Main Gitar"]
+x = random.choice(hobi)
+print("Hobi Saya adalah", x)
+makanan = ["Indomie", "Iga Bakar", "Doner Kebab"]
+y = random.choice(makanan)
+print("Makanan Favorit Saya adalah", y)
+fakta = ["Sering Tidur di Teras", "Sering Begadang", "24/7 Discord"]
+z = random.choice(fakta)
+print("Fakta Menarik Saya adalah", z)
